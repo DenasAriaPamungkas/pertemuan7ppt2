@@ -47,7 +47,7 @@ if N>0:
 ```
 Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan dengan baik seperti pada gambar dibawah ini.
 
-![Nilai Max](https://user-images.githubusercontent.com/72906579/98377631-a49ece00-2077-11eb-9e95-67a1316b4121.png)
+!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
 
 Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan syntax
 ```python
@@ -72,15 +72,15 @@ Seperti inilah hasil akhirnya
 __________________________________________________________________________________
 Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk flowchart seperti ini
 
-!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
+![Flowchart](https://user-images.githubusercontent.com/72906579/98388431-55f83080-2085-11eb-9e13-0adbdae25e4d.png)
 
 Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
 ```python
-![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
+http://www.flowgorithm.org/download/index.htm
 ```
 Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
-!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
+![Download Flow](https://user-images.githubusercontent.com/72906579/98425077-74325080-20c6-11eb-8cc6-4a64210e290a.png)
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
