@@ -66,7 +66,7 @@ if N>0:
 ```
 Seperti inilah hasil akhirnya 
 
-![Hasil](https://user-images.githubusercontent.com/72906579/98377618-a1a3dd80-2077-11eb-9918-f355e5c74bdc.png)
+!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
 
 ##### MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 __________________________________________________________________________________
