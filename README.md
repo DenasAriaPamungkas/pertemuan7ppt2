@@ -76,15 +76,15 @@ Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubah
 
 Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
 ```python
-http://www.flowgorithm.org/download/index.htm
+![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
 ```
 Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
-![Download Flow](https://user-images.githubusercontent.com/72906579/98425077-74325080-20c6-11eb-8cc6-4a64210e290a.png)
+!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
-!![hasil4](https://user-images.githubusercontent.com/72905634/98460045-8d361280-2155-11eb-948d-66e39e39843b.png)
+![Flow Step1](https://user-images.githubusercontent.com/72906579/98389639-e5eaaa00-2086-11eb-9dd2-107a642334ff.png)
 
 Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
 
